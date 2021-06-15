@@ -79,6 +79,9 @@ a {
 }
 
 /* SVG form CSS */
+svg {
+    width:660px;
+}
 #courseidblock {
     fill:blue !important;
     pointer-events: all;
